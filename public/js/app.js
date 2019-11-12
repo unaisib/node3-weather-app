@@ -1,4 +1,4 @@
-console.log('Running client side javascript');
+console.log('Running client side javascript huhu');
 
 
 
